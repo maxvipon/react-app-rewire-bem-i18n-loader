@@ -1,0 +1,30 @@
+{
+  "name": "react-app-rewire-bem-i18n-loader",
+  "version": "1.0.0",
+  "description": "Add webpack-bem-i18n-loader to a react-app-rewired config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxvipon/react-app-rewire-bem-i18n-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "bem",
+    "i18n",
+    "react-app",
+    "react-app-rewired"
+  ],
+  "author": "Maxim Ponomarev <maxvipon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxvipon/react-app-rewire-bem-i18n-loader/issues"
+  },
+  "homepage": "https://github.com/maxvipon/react-app-rewire-bem-i18n-loader#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-xo": "^0.19.0"
+  }
+}
